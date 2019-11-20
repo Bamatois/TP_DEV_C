@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1574246155 source:c:\users\bamatois\desktop\polytech\dev c\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pile.h"
+
+1574245794 c:\users\bamatois\desktop\polytech\dev c\tp4\pile.h
+
+1574246219 source:c:\users\bamatois\desktop\polytech\dev c\tp4\pile.c
+	<stdio.h>
+	<stdlib.h>
+	"pile.h"
+
